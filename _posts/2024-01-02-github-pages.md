@@ -12,6 +12,7 @@ sidebar:
 
 깃헙(GitHub) 블로그 10분안에 완성하기 - YouTube (youtube.com) | [Link](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 Getting Started with GitHub Pages - YouTube (youtube.com) | [Link](https://www.youtube.com/watch?v=QyFcl_Fba-k)
+Quick-Start Guide - Minimal Mistakes (github.io) | [Link](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 ## Jekyll Theme
 
