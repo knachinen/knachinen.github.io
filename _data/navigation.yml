@@ -23,5 +23,5 @@ docs:
         url: /categories/
   - title: "_"
     children:
-      - title: "Category"
-        url: /categories/
+      - title: "Tag"
+        url: /tags/
