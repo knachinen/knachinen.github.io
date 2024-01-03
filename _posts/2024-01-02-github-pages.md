@@ -2,6 +2,10 @@
 layout: single
 title: "Github - Pages"
 tag: github
+categories: environment
+toc: true
+sidebar:
+    nav: "docs"
 ---
 
 ## Getting Started
