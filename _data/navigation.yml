@@ -21,11 +21,7 @@ docs:
     children:
       - title: "Category"
         url: /categories/
-      - title: "Tag"
-        url: /tags/
   - title: "_"
     children:
       - title: "Category"
         url: /categories/
-      - title: "Tag"
-        url: /tags/
