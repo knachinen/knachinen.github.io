@@ -2,7 +2,7 @@
 layout: single
 title: "Github - Pages"
 tag: github
-categories: environment
+categories: env
 toc: true
 sidebar:
     nav: "docs"
