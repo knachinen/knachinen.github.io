@@ -24,3 +24,7 @@ Layouts - Minimal Mistakes (github.io) | [Link](https://mmistakes.github.io/mini
 
 EP03. 업데이트 내역을 실시간 확인하기!! (로컬 개발환경 설정방법) - YouTube (youtube.com) | [Link](https://www.youtube.com/watch?v=0TeHUqSAb6Q)
 Ruby 버전 업데이트 방법 in MacOS - Blog (codecamper.me) | [Link](https://codecamper.me/blog/122/)
+
+
+- local 환경 구동  
+`bundle exec jekyll serve`
