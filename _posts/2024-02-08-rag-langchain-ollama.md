@@ -120,4 +120,5 @@ lcrag.get_answer("what are the requirements and mandates for setting product ris
 
 ### ref.
 
-[github repository](https://github.com/knachinen/rag_langchain_ollama)
+- [jupyter notebook code  (github)](https://github.com/knachinen/rag_langchain_ollama)
+- [sample document  (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02001L0095-20100101)
