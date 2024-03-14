@@ -42,3 +42,11 @@ pi:
 2. Stimulating discussion: Asking difficult questions can stimulate discussion and get people thinking about a topic in a new way.
 3. Building relationships: Asking questions, even simple ones, can help you build relationships with others and create opportunities for further conversation and collaboration.
 4. Clarifying understanding: Sometimes, asking a question out loud, even if you think you know the answer, can help solidify your understanding or reveal a gap in your knowledge.
+
+## ChatGPT 
+
+> I believe questions in seminars or courses serve multiple purposes beyond just seeking answers. They can be used to stimulate critical thinking, encourage participation, and foster discussion among peers. While it's true that some questions may be easily answered through personal research, the act of discussing them in a group setting can provide valuable insights, perspectives, and collaborative learning experiences.
+
+Similarly, questions that are perceived as too difficult for everyone to answer can still be valuable for promoting curiosity, pushing boundaries of knowledge, and inspiring further exploration. They may prompt participants to think creatively, seek additional resources, or even spark debates that lead to deeper understanding.
+
+Ultimately, the effectiveness of questions in seminars or courses depends on various factors, including their relevance to the topic, their ability to engage participants, and the facilitation of meaningful discussions. Instead of avoiding questions altogether based on their perceived difficulty or ease of search, it might be more beneficial to carefully select and frame questions that promote active participation, critical thinking, and collaborative learning within the context of the learning environment.
