@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Right Answer"
+title: "AI Chat :: Right Answer"
 tag: [right-answer]
 categories: [til]
 toc: true
